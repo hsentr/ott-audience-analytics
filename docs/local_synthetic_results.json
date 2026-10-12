@@ -1,0 +1,177 @@
+{
+  "01_first_program_watched": [
+    {
+      "wall": "Period A",
+      "period_label": "Synthetic baseline",
+      "rank": 1,
+      "first_content_watched": "Atlas Stories",
+      "total_show_unique_viewers": 3,
+      "first_content_watched_unique_viewers": 3,
+      "registered_unique_viewers": 2,
+      "registered_pct_of_first_content_watched_unique_viewers": 66.67,
+      "guest_unique_viewers": 1,
+      "guest_pct_of_first_content_watched_unique_viewers": 33.33
+    },
+    {
+      "wall": "Period B",
+      "period_label": "Synthetic follow-up",
+      "rank": 1,
+      "first_content_watched": "Harbor Science",
+      "total_show_unique_viewers": 1,
+      "first_content_watched_unique_viewers": 1,
+      "registered_unique_viewers": 1,
+      "registered_pct_of_first_content_watched_unique_viewers": 100.0,
+      "guest_unique_viewers": 0,
+      "guest_pct_of_first_content_watched_unique_viewers": 0.0
+    },
+    {
+      "wall": "Period B",
+      "period_label": "Synthetic follow-up",
+      "rank": 2,
+      "first_content_watched": "Atlas Stories",
+      "total_show_unique_viewers": 1,
+      "first_content_watched_unique_viewers": 1,
+      "registered_unique_viewers": 0,
+      "registered_pct_of_first_content_watched_unique_viewers": 0.0,
+      "guest_unique_viewers": 1,
+      "guest_pct_of_first_content_watched_unique_viewers": 100.0
+    }
+  ],
+  "02_episodes_and_new_viewers": [
+    {
+      "content_title": "Atlas Episode 2",
+      "total_unique_viewers": 3,
+      "new_to_platform": 1,
+      "new_to_show": 2
+    },
+    {
+      "content_title": "Atlas Episode 1",
+      "total_unique_viewers": 3,
+      "new_to_platform": 2,
+      "new_to_show": 2
+    },
+    {
+      "content_title": "Atlas Episode 3",
+      "total_unique_viewers": 1,
+      "new_to_platform": 0,
+      "new_to_show": 0
+    }
+  ],
+  "03_how_far_viewers_watch": [
+    {
+      "series_id": "s01",
+      "series_title": "Atlas Stories",
+      "content_id": "e01",
+      "content_title": "Atlas Episode 1",
+      "drop_off_bucket": "0–25%",
+      "viewers": 1,
+      "pct_viewers": 33.33
+    },
+    {
+      "series_id": "s01",
+      "series_title": "Atlas Stories",
+      "content_id": "e01",
+      "content_title": "Atlas Episode 1",
+      "drop_off_bucket": "100%",
+      "viewers": 1,
+      "pct_viewers": 33.33
+    },
+    {
+      "series_id": "s01",
+      "series_title": "Atlas Stories",
+      "content_id": "e01",
+      "content_title": "Atlas Episode 1",
+      "drop_off_bucket": "50–75%",
+      "viewers": 1,
+      "pct_viewers": 33.33
+    },
+    {
+      "series_id": "s01",
+      "series_title": "Atlas Stories",
+      "content_id": "e02",
+      "content_title": "Atlas Episode 2",
+      "drop_off_bucket": "25–50%",
+      "viewers": 1,
+      "pct_viewers": 33.33
+    },
+    {
+      "series_id": "s01",
+      "series_title": "Atlas Stories",
+      "content_id": "e02",
+      "content_title": "Atlas Episode 2",
+      "drop_off_bucket": "75–99%",
+      "viewers": 2,
+      "pct_viewers": 66.67
+    },
+    {
+      "series_id": "s01",
+      "series_title": "Atlas Stories",
+      "content_id": "e05",
+      "content_title": "Atlas Episode 3",
+      "drop_off_bucket": "50–75%",
+      "viewers": 1,
+      "pct_viewers": 100.0
+    }
+  ],
+  "04_watching_more_of_the_show": [
+    {
+      "content_title": "Atlas Episode 2",
+      "unique_viewers": 3,
+      "continued_label": "Users continued watching other episodes",
+      "continued_unique_viewers": 1,
+      "continued_rate": 0.3333333333333333,
+      "continued_rate_pct": 33.33333333333333
+    },
+    {
+      "content_title": "Atlas Episode 1",
+      "unique_viewers": 3,
+      "continued_label": "Users continued watching other episodes",
+      "continued_unique_viewers": 2,
+      "continued_rate": 0.6666666666666666,
+      "continued_rate_pct": 66.66666666666666
+    },
+    {
+      "content_title": "Atlas Episode 3",
+      "unique_viewers": 1,
+      "continued_label": "Users continued watching other episodes",
+      "continued_unique_viewers": 0,
+      "continued_rate": 0.0,
+      "continued_rate_pct": 0.0
+    }
+  ],
+  "05_repeat_viewing_across_episodes": [
+    {
+      "from_episode_number": 1,
+      "from_episode_title": "Atlas Episode 1",
+      "to_episode_number": 2,
+      "to_episode_title": "Atlas Episode 2",
+      "from_episode_unique_viewers": 3,
+      "retained_to_next_episode": 2,
+      "retention_to_next_episode_pct": 66.67,
+      "loyal_viewers_3plus_episodes": 1,
+      "loyal_viewers_3plus_episodes_pct": 33.33
+    },
+    {
+      "from_episode_number": 2,
+      "from_episode_title": "Atlas Episode 2",
+      "to_episode_number": 3,
+      "to_episode_title": "Atlas Episode 3",
+      "from_episode_unique_viewers": 3,
+      "retained_to_next_episode": 1,
+      "retention_to_next_episode_pct": 33.33,
+      "loyal_viewers_3plus_episodes": 1,
+      "loyal_viewers_3plus_episodes_pct": 33.33
+    },
+    {
+      "from_episode_number": 3,
+      "from_episode_title": "Atlas Episode 3",
+      "to_episode_number": 4,
+      "to_episode_title": "Atlas Episode 4",
+      "from_episode_unique_viewers": 1,
+      "retained_to_next_episode": 0,
+      "retention_to_next_episode_pct": 0.0,
+      "loyal_viewers_3plus_episodes": 1,
+      "loyal_viewers_3plus_episodes_pct": 100.0
+    }
+  ]
+}
